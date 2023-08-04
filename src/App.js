@@ -45,7 +45,7 @@ return (
     display: "flex",
     flexDirection: "column",
     alignItems: "center",
-    justifyContent: "center",
+    justifyContent: "flex-start",  // bewirkt, dass der Content am oberen Rand beginnt.
     background: 'url(https://images.pexels.com/photos/912364/pexels-photo-912364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center center fixed', 
     WebkitBackgroundSize: 'cover', 
     MozBackgroundSize: 'cover', 
