@@ -69,3 +69,4 @@ return (
 
 // Exportieren der App-Komponente für die Verwendung in anderen Dateien
 export default App;
+
